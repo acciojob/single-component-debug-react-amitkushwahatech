@@ -1,5 +1,5 @@
 import React,{component,useState} from "react";
-import './styles/App.css';
+import '../styles/App.css';
 const App = ()=>{
   return (
     <div id="root">
