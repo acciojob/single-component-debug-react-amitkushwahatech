@@ -1,5 +1,5 @@
-import React,{component,useState} from "react";
-import '../styles/App.css';
+import { render } from 'enzyme';
+import React from 'react'
 // const App = () => {
 //   return (
 //     <div>
